@@ -102,7 +102,7 @@ Or from the CLI:
 ## Running the server
 
 ```bash
-uvicorn src.server:app --host 0.0.0.0 --port 8000 --reload
+python app/server
 ```
 
 API docs are available at `http://localhost:8000/docs` once the server is running.
@@ -112,7 +112,7 @@ API docs are available at `http://localhost:8000/docs` once the server is runnin
 ## Running the CLI
 
 ```bash
-python src/cli.py
+python app/cli.py
 ```
 
 Available commands inside the CLI:
