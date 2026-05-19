@@ -1,0 +1,12 @@
+# .gitignore
+
+data/tmp/*
+!data/tmp/.gitkeep
+
+
+data/vector_stores/*
+!data/vector_stores/.gitkeep
+
+
+.env
+
