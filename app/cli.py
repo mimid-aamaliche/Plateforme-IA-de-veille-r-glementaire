@@ -27,8 +27,8 @@ from rag_engine import LegalRAGEngine
 
 BANNER = """
 ╔══════════════════════════════════════════════════════════════╗
-║          ⚖️  Moroccan Legal Assistant — RAG Chat             ║
-║    Code Pénal · Code de Commerce · Moudawwana                ║
+║          ⚖️           Legal Assistant — RAG Chat             ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 Type your question in French or Arabic.
 Commands: /ingest <dir>  /clear  /history  /quit
